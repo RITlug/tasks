@@ -1,11 +1,12 @@
 ---
-name: [SEASON] Semester [YEAR] Planning
+name: Semester Planning
 about: Planning for the upcoming semester
-title: '[SEASON] Semester [YEAR] Planning'
-labels: 'internal organization', meetings, presentations
+title: "[SEASON] Semester [YEAR] Planning"
+labels: internal organization, meetings, presentations
 assignees: ''
 
 ---
+
 Week | Theme | Day | Title | Presenter
 -- | -- | -- | -- | -- 
 1 |  |  |  |  
@@ -21,4 +22,4 @@ Week | Theme | Day | Title | Presenter
 11 |  |  |  | 
 12 |  |  |  | 
 13 |  |  |  | 
-14 |  |  |  | 
+14 |  |  |  |
